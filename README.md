@@ -1,4 +1,4 @@
-# DS_DSP
+# Dance-Step Discrete Sequence Production Task (DS-DSP)
 The Dance Step - Discrete Sequence Production Task
 
 Here is a freely avaliable script that was written in E-Prime v2.0 for use of experimentation.
